@@ -6,9 +6,9 @@ This project is an end-to-end analysis of a large dataset containing over 1 mill
 
 The analysis focuses on two core questions:
 
-Geographical Hotspots: Which states generate the most complaints, and what are the primary issues in those regions?
+[Geographical Hotspots: Which states generate the most complaints, and what are the primary issues in those regions?](https://raw.githubusercontent.com/pradyumnsingh06/Consumer-Complaints-Analysis-Python-PowerBI/main/Screenshot%202025-08-03%20144001.png)
 
-Corporate Accountability: Which companies receive the most complaints, and how efficiently do they respond to them?
+[Corporate Accountability: Which companies receive the most complaints, and how efficiently do they respond to them?](https://raw.githubusercontent.com/pradyumnsingh06/Consumer-Complaints-Analysis-Python-PowerBI/main/Screenshot%202025-08-03%20144012.png)
 
 Dashboard Preview
 Here is a preview of the final two-page interactive dashboard built in Power BI.
